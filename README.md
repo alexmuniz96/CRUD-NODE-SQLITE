@@ -15,4 +15,4 @@ Esse projeto foi desenvolvido com
 - Clone o repositório e acesse a pasta;
 - Instale as dependências com `yarn`;
 - Inicie o servidor com `yarn dev`;
-- A aplicação pode ser acessada em [`localhost:4000`](http://localhost:5000).
+- A aplicação pode ser acessada em [`localhost:5000`](http://localhost:5000).
