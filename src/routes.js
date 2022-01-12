@@ -1,5 +1,5 @@
 import { Router } from "express"
-import { createTable, insertPessoa, updatePessoa, selectPessoas, selectPessoa, deletePessoa } from './Controller/Pessoa.js'
+import { insertPessoa, updatePessoa, selectPessoas, selectPessoa, deletePessoa } from './Controller/Pessoa.js'
 
 const router = Router();
 
